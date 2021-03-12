@@ -1,5 +1,7 @@
 # Restart-Router
 <pre>
+'Tested router: ZYXEL VMG3312-B10B
+
 'Just change the following: "admin" and "ttnet"
 '----------------------------------------------
 userName =             "admin"
